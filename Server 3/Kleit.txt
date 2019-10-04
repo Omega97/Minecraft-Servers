@@ -1,54 +1,47 @@
-advanced fishing
-notreepunching
-antique atlas
-aquacolture
-campfire
-conforts
-coralreef
-dynamicsorrundings?
-bloodmoon?
-familiar fauna
-ice and fire
-item physics
-jei
-mobends
-Relistics torches?
-serene season
-waystones
-wearable backpacks
-astral sorcery
-baubles
-bewitchment?
-bibliocraft
-biomesoplenty
-botania
-buildinggadgets
-chisel
-chunkpregen
-controlling
-mettiamo tinkers?
-cooking/farming for blockheads
-cyclic
-deepmoblearning?
-ice and fire /dragon mounts
-fairy lights
-extrautils
-fast leaf decay
-heat and climate (è fantastica non mette sete ma per il resto è molto bella (poco documentazione perchè giapponese)
-minecolonies?
-mousetweaks
-mystcraft 
-mystic world (ci sono volpi)
-mystical agricolture?
-natura
-netherex
-openblocks
-pams
-quark
-refined storage?
-rustic
-thaumcraft+addon?
-the oneprobe
-twilight?
-unidic
-tombstone?
+Main mods:
+magic:
+-mystical agricolture
+-bewitchment
+-botania
+-ice and fire
+-twilight forest
+-thaumcraft+addon
+-astral sorcery
+-tech:
+-actually additions
+-openblocks
+-heatandclimate
+-refined storage
+-extra utils2
+endgame:
+-minecolonies
+utility:
+-rustic
+-antique atlas
+-coralreef
+-familiar fauna
+-jei
+-mobends
+-serene season
+-waystones
+-wearable backpacks
+-baubles
+-bibliocraft
+-biomesoplenty
+-buildinggadgets
+-chisel
+-chunkpregen
+-controlling
+-cooking/farming for blockheads
+-cyclic
+-fairy lights
+-fast leaf decay
+-mousetweaks
+-mystic world (ci sono volpi)
+-natura
+-netherex
+-pams
+-quark
+-the oneprobe
+-unidic
+-nopunchingtrees
