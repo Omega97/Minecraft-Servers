@@ -10,7 +10,6 @@ https://www.curseforge.com/minecraft/mc-mods/thaumcraft
 https://www.curseforge.com/minecraft/mc-mods/thaumcraft-inventory-scanning
 https://www.curseforge.com/minecraft/mc-mods/thaumic-periphery
 https://www.curseforge.com/minecraft/mc-mods/rustic-thaumaturgy
-https://www.curseforge.com/minecraft/mc-mods/thaumic-additions
 https://www.curseforge.com/minecraft/mc-mods/astral-sorcery
 https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8
 https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8
@@ -34,7 +33,7 @@ https://www.curseforge.com/minecraft/mc-mods/natura
 https://www.curseforge.com/minecraft/mc-mods/mantle
 https://www.curseforge.com/minecraft/mc-mods/tinkers-construct
 https://www.curseforge.com/minecraft/mc-mods/constructs-armory
-https://www.curseforge.com/minecraft/mc-mods/extratic
+https://www.curseforge.com/minecraft/mc-mods/plustic
 https://www.curseforge.com/minecraft/mc-mods/netherex
 https://www.curseforge.com/minecraft/mc-mods/libraryex
 https://www.curseforge.com/minecraft/mc-mods/waystones
@@ -62,3 +61,8 @@ https://www.curseforge.com/minecraft/mc-mods/just-a-few-fish
 https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_E3.jar&x=d1f1
 http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html
 https://www.curseforge.com/minecraft/mc-mods/offlineskins/files/2744747
+https://www.curseforge.com/minecraft/mc-mods/tomb-many-graves-2
+https://www.curseforge.com/minecraft/mc-mods/patchouli
+https://www.curseforge.com/minecraft/mc-mods/mysticallib
+https://www.curseforge.com/minecraft/mc-mods/autoreglib
+https://www.curseforge.com/minecraft/mc-mods/hammer-lib
