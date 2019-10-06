@@ -59,3 +59,5 @@ https://www.curseforge.com/minecraft/mc-mods/rustic
 https://www.curseforge.com/minecraft/mc-mods/antique-atlas
 https://www.curseforge.com/minecraft/mc-mods/coralreef
 https://www.curseforge.com/minecraft/mc-mods/just-a-few-fish
+https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_E3.jar&x=d1f1
+http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html
